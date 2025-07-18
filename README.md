@@ -13,19 +13,19 @@ gemini_api.py   # Gemini client setup
 
 ## Setup
 1. **Clone**
-   ```bash
-   git clone https://github.com/PadmeshxK/Indian-Sign-Language-Recognition.git
-   cd Indian-Sign-Language-Recognition
-   ```
+```bash
+git clone https://github.com/PadmeshxK/Indian-Sign-Language-Recognition.git
+cd Indian-Sign-Language-Recognition
+```
 
    
 3. **Install**
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 3. **Configure**
-   - In `gemini_api.py`, set `api_key=<gemini-api-key>`
-   - Place `model.h5` in root
+- In `gemini_api.py`, set `api_key=<gemini-api-key>`
+- Place `model.h5` in root
 
 ## Run
 ```bash
